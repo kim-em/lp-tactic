@@ -15,9 +15,9 @@ open Lake DSL
   native deps in the dependency graph.
 -/
 
-require LPCore from git "https://github.com/leanprover/lp-core" @ "f5a81cfad47fce9cb6b8d99484bb5da3ad27b645"
+require LPCore from git "https://github.com/leanprover/lp-core" @ "46c14aba1b4f3c5f7d865e187119a72775bee81b"
 
-require LPVerify from git "https://github.com/leanprover/lp-verify" @ "be5996100f4fca9a9ff027fe955b925ea012a9de"
+require LPVerify from git "https://github.com/leanprover/lp-verify" @ "0c31ece4295abcb76c63307f2726ac5bbdeba1b9"
 
 package LPTactic
 
